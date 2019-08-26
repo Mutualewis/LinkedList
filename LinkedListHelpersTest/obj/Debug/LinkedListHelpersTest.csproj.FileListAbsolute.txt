@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\bin\Debug\LinkedListHelpersTest.dll
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\bin\Debug\LinkedListHelpersTest.pdb
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\bin\Debug\ClassLibrary.dll
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\bin\Debug\ClassLibrary.pdb
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\obj\Debug\LinkedListHelpersTest.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\obj\Debug\LinkedListHelpersTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\obj\Debug\LinkedListHelpersTest.csproj.CopyComplete
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\obj\Debug\LinkedListHelpersTest.dll
+C:\Users\Admin\source\repos\TechnoBrain_Lewis\LinkedListHelpersTest\obj\Debug\LinkedListHelpersTest.pdb
